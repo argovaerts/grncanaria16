@@ -7,7 +7,7 @@
   var pageBase = 'p/';
   var pageExt = 'md';
   var mainPage = location.search.slice(1)
-    .replace(/&.*/, '') || 'projects/index';
+    .replace(/&.*/, '') || 'archive/index';
   var mainTitle = '';
 
 

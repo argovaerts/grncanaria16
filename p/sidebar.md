@@ -1,6 +1,8 @@
-# [Fritx's Blog](.)
+# [Gran Canaria - februari '16](.)
 
-> Life is short, I use JS.
+> From birth, man carries the weight of gravity on his shoulders. He is bolted to earth. But man has only to sink beneath the surface and he is free.
 
-- [Projects](projects/index.md)
+> - JACQUES COUSTEAU
+
+- [Blog](archive/index.md)
 - [About Me](aboutme.md)

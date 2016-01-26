@@ -4,4 +4,3 @@
 
 >  JACQUES COUSTEAU
 
-- [Blog](archive/index.md)

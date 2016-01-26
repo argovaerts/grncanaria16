@@ -5,4 +5,3 @@
 > - JACQUES COUSTEAU
 
 - [Blog](archive/index.md)
-- [About Me](aboutme.md)
